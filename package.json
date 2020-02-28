@@ -4,7 +4,8 @@
     "description": "CRUD practice for TLs - Unit 3 Week 3",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js"
+        "start": "node server.js",
+        "node": "nodemon server.js"
     },
     "repository": {
         "type": "git",
